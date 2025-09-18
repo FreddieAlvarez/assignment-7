@@ -105,3 +105,4 @@ for (let i = 0; i < friendFavorites.length; i++) {
 
 console.log("The longest food name in the list is " + longestFood
   + " with " + longestFood.length + " characters.");
+   
